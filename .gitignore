@@ -1,0 +1,15 @@
+mods/
+logs/
+saves/
+placebo_serialized/
+schematics/
+crash-reports/
+options.txt
+usernamecache.json
+.curseclient
+resourcepacks/
+local/
+ESM/
+*.log
+usercache.json
+usernamecache.json
