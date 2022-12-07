@@ -1,0 +1,99 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "forge-43.1.65",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Create Enhanced",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 439890,
+      "fileID": 4105677,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 4126351,
+      "required": true
+    },
+    {
+      "projectID": 585406,
+      "fileID": 4135660,
+      "required": true
+    },
+    {
+      "projectID": 325625,
+      "fileID": 3929213,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 4011414,
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 4118102,
+      "required": true
+    },
+    {
+      "projectID": 652202,
+      "fileID": 4041027,
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 4085695,
+      "required": true
+    },
+    {
+      "projectID": 531834,
+      "fileID": 4023150,
+      "required": true
+    },
+    {
+      "projectID": 688768,
+      "fileID": 4132987,
+      "required": true
+    },
+    {
+      "projectID": 466792,
+      "fileID": 4021296,
+      "required": true
+    },
+    {
+      "projectID": 521393,
+      "fileID": 4125211,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4104616,
+      "required": true
+    },
+    {
+      "projectID": 509285,
+      "fileID": 4016361,
+      "required": true
+    },
+    {
+      "projectID": 243076,
+      "fileID": 4057992,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972423,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
